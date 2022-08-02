@@ -16,4 +16,4 @@
 
 ## 🤝 Connect with me
 
-[![d.wojewski@icloud.com](https://img.shields.io/badge/d.wojewski@icloud.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:d.wojewski@icloud.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vas3k/](https://www.linkedin.com/in/daniel-wojewski-97720b155/)]
+[![d.wojewski@icloud.com](https://img.shields.io/badge/d.wojewski@icloud.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:d.wojewski@icloud.com)  [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-wojewski-97720b155/)
