@@ -5,7 +5,7 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [d.wojewski@icloud.com](mailto:d.wojewski@icloud.com).
 
-#### My CV: [Daniil Voevskii.pdf]()
+#### My CV: [Daniil Voevskii.pdf](https://raw.githubusercontent.com/gonzaux/gonzaux/master/cv.pdf)
 
 ## 🛠 My fancy badge area
 
